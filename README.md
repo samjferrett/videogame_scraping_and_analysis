@@ -14,3 +14,9 @@ This will use metacritic_scrape/spiders/meta_spider.py to scrape the required da
 ## metacritic_scrape_beautifulsoup
 
 Alternative that uses beautiful soup. Note this data does not include number of ratings stats and is typically slower than the scrapy version
+
+## game_analysis.ipynb
+
+Here videogame critical and sales data is cleaned and analysed.
+The most prolific, the most critically successful, and the most commercially successful platforms and genres are examined
+Relationships between critical reviews, user reviews and sales are examined.
