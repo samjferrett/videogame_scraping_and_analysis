@@ -15,6 +15,10 @@ This will use metacritic_scrape/spiders/meta_spider.py to scrape the required da
 
 Alternative that uses beautiful soup. Note this data does not include number of ratings stats and is typically slower than the scrapy version
 
+## sales_scrape
+
+scraping script using beautiful soup that retrieves sales data from VGChartz.com.
+
 ## game_analysis.ipynb
 
 Packages used:
