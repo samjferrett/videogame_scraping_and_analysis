@@ -17,6 +17,15 @@ Alternative that uses beautiful soup. Note this data does not include number of 
 
 ## game_analysis.ipynb
 
+Packages used:
+- matplotlib
+- pandas
+- seaborn
+- numpy
+- datetime
+- itertools
+
 Here videogame critical and sales data is cleaned and analysed.
 The most prolific, the most critically successful, and the most commercially successful platforms and genres are examined
 Relationships between critical reviews, user reviews and sales are examined.
+
